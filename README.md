@@ -35,7 +35,6 @@ Este sistema demonstra, de forma prática, como a programação estruturada pode
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras](#pessoas-desenvolvedoras)
-* [Licença](#licença)
 ```
 
 ---
