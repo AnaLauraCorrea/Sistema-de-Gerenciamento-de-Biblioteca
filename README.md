@@ -21,8 +21,6 @@ Este sistema demonstra, de forma prática, como a programação estruturada pode
 * Persistência de dados
 * Tecnologias utilizadas
 * Pessoas desenvolvedoras
-* Licença
-
 ---
 
 ## :pushpin: Índice
